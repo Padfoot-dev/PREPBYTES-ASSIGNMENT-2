@@ -9,13 +9,7 @@ html , body {
 
 }
 
-.background {
-    position: absolute;
-    height: 100vh;
-    top: 0;
-    filter: blur(2px);
-    z-index: -1;
-}
+
 
 .new-item {
 
